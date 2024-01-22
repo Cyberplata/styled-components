@@ -18,10 +18,7 @@ function App() {
             </Menu>
 
             <Box>
-                <StyledBtn as={Link} href={"#"}>LinkComponent</StyledBtn>
-                <StyledBtn as="a" href={"#"}>Link</StyledBtn>
                 <StyledBtn>Hello</StyledBtn>
-                <SuperButton>SuperButton</SuperButton>
             </Box>
         </div>
     );

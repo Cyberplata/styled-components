@@ -1,8 +1,8 @@
 import styled from "styled-components";
-import {MyAnimation} from "../styles/animations/Animations";
 
 export const StyledBtn = styled.button`
     border: none;
+    border-radius: 10px;
     background-color: #fc4343;
     padding: 10px 20px;
     color: snow;
